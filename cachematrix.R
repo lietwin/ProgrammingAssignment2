@@ -1,4 +1,4 @@
-## @author lietwin (ludi.akue@gmail.com)
+## @author lietwin (ludi@a-r.io)
 
 ## makeCacheMatrix takes an invertibke matrix and returns a special matrix
 ## which is a list containing 4 functions to
